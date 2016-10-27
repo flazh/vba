@@ -1,3 +1,5 @@
+'To enable Debug.Print output press ctrl+g
+
 'Sub to remove part of formula from activesheet
 Sub chceckFormulas()
   For Each cl In ActiveSheet.UsedRange
