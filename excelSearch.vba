@@ -1,3 +1,4 @@
+'Immediate Window in excel vba
 'To enable Debug.Print output press ctrl+g
 
 'Sub to remove part of formula from activesheet
